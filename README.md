@@ -1,3 +1,4 @@
+<h1 align="center">Greetings! PRITAM BANIK ROY</h1>
 <h3 align="center">Being a Python Programmer, I'm Data Science addicted(Major Machine Learning & Artificial Intelligence). Doing BTech on Computer Science & Engineering.Also a passionate Full Stack Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-banik-roy&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-banik-roy" /> </p>
@@ -20,10 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pritam-banik-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritam-banik-roy/" height="30" width="40" /></a>
 <a href="https://fb.com/pritam banik roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam banik roy" height="30" width="40" /></a>
 <a href="https://instagram.com/roy_._here._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roy_._here._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucoolatexqj-pf7j0eozzlfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucoolatexqj-pf7j0eozzlfa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pritambanikroy4819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pritambanikroy4819" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,5 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam-banik-roy&show_icons=true&locale=en" alt="pritam-banik-roy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-banik-roy&" alt="pritam-banik-roy" /></p>
-
 
