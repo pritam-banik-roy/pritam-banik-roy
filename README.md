@@ -6,7 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available :at [In my GitHub Repository](In my GitHub Repository)
+- 🌱 Digging Into **Data Science & Artificial Intelligence**
+
+- 🏫 Studying **Full Stack Web Development**
+
+- 💬 Ask me anything about **Python, Data Science & AI , Web Development.**
+
+- 👨‍💻 All of my projects are available : [In my GitHub Repository](In my GitHub Repository)
 
 - 👨‍💻 All of my details https: **https://www.facebook.com/pritam.banikroy/**
 
@@ -14,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pritam banik roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritam banik roy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pritam-banik-roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pritam-banik-roy/" height="30" width="40" /></a>
 <a href="https://fb.com/pritam banik roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pritam banik roy" height="30" width="40" /></a>
 <a href="https://instagram.com/roy_._here._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roy_._here._" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pritam banik roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pritam banik roy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucoolatexqj-pf7j0eozzlfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucoolatexqj-pf7j0eozzlfa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
