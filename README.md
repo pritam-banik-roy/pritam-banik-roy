@@ -3,8 +3,11 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Pritam-red)](https://youtube.com/@pritambanikroy4819)
 [![Linkedin Badge](https://img.shields.io/badge/-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-banik-roy/)](https://www.linkedin.com/in/pritam-banik-roy/)
-[![Facebook Badge](https://img.shields.io/badge/WebSite-Pritam-green)](https://www.facebook.com/pritam.banikroy/)
-[![Instagram Badge](https://img.shields.io/badge/Insta-Pritam-yellow)](https://instagram.com/roy_._here._?igshid=MzRlODBiNWFlZA==)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-Pritam-green)](https://www.facebook.com/pritam.banikroy/)
+[![Instagram Badge](https://img.shields.io/badge/Insta-Roy-yellow)](https://instagram.com/roy_._here._?igshid=MzRlODBiNWFlZA==)
+
+![Visitor Count](https://profile-counter.glitch.me/pritam-banik-roy/count.svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-banik-roy&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-banik-roy" /> </p>
 
