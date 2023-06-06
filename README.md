@@ -1,6 +1,11 @@
 <h1 align="center">I'm PRITAM BANIK ROY</h1>
 <h3 align="center">Being a Python Programmer, I'm Data Science addicted(Major Machine Learning & Artificial Intelligence). Doing BTech on Computer Science & Engineering.Also a passionate Full Stack Web Developer.</h3>
 
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)]([https://www.youtube.com/developerfunnel](https://youtube.com/@pritambanikroy4819))
+[![Linkedin Badge](https://img.shields.io/badge/-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)]([https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/pritam-banik-roy/))
+[![Facebook Badge](https://img.shields.io/badge/WebSite-Pritam-green)](https://www.facebook.com/pritam.banikroy/))
+[![Instagram Badge](https://img.shields.io/badge/StackOverflow-Pritam-yellow)]([https://stackoverflow.com/users/3687251/aakash-](https://instagram.com/roy_._here._?igshid=MzRlODBiNWFlZA==))
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-banik-roy&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-banik-roy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam-banik-roy" alt="pritam-banik-roy" /></a> </p>
