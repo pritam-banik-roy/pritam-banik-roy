@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-banik-roy&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-banik-roy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam-banik-roy" alt="pritam-banik-roy" /></a> </p>
+
 
 
 - 🌱 Digging Into **Data Science & Artificial Intelligence**
