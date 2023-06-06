@@ -1,10 +1,10 @@
 <h1 align="center">I'm PRITAM BANIK ROY</h1>
 <h3 align="center">Being a Python Programmer, I'm Data Science addicted(Major Machine Learning & Artificial Intelligence). Doing BTech on Computer Science & Engineering.Also a passionate Full Stack Web Developer.</h3>
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Pritam-red)](https://youtube.com/@pritambanikroy4819))
-[![Linkedin Badge](https://img.shields.io/badge/-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-banik-roy/))
-[![Facebook Badge](https://img.shields.io/badge/WebSite-Pritam-green)](https://www.facebook.com/pritam.banikroy/))
-[![Instagram Badge](https://img.shields.io/badge/Insta-Pritam-yellow)](https://instagram.com/roy_._here._?igshid=MzRlODBiNWFlZA==))
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Pritam-red)](https://youtube.com/@pritambanikroy4819)
+[![Linkedin Badge](https://img.shields.io/badge/-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-banik-roy/)
+[![Facebook Badge](https://img.shields.io/badge/WebSite-Pritam-green)](https://www.facebook.com/pritam.banikroy/)
+[![Instagram Badge](https://img.shields.io/badge/Insta-Pritam-yellow)](https://instagram.com/roy_._here._?igshid=MzRlODBiNWFlZA==)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam-banik-roy&label=Profile%20views&color=0e75b6&style=flat" alt="pritam-banik-roy" /> </p>
 
