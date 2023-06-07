@@ -28,7 +28,7 @@
 - 👨‍💻 All of my projects are available : **In my GitHub Repositories**
 
 <div>
-  ## 🏆 GitHub Trophies
+ # 🏆 GitHub Trophies :
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pritam-banik-roy&column=7"/>
   </a>
@@ -165,7 +165,7 @@ Languages and Tools:
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong># 📊 GitHub Stats: </strong>
+  <strong>#  GitHub Stats: </strong>
 </summary>
 <br/>
 
