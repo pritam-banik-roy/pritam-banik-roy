@@ -28,7 +28,7 @@
 - 👨‍💻 All of my projects are available : **In my GitHub Repositories**
 
 
- # 🏆 GitHub Trophies :
+<h2> # 🏆 GitHub Trophies : </h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pritam-banik-roy&column=7"/>
   </a>
