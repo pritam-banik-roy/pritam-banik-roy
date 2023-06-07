@@ -1,6 +1,7 @@
 <h1 align="center">I'm PRITAM BANIK ROY</h1>
 <h3 align="center">Being a Python Programmer, I'm Data Science addicted(Major Machine Learning & Artificial Intelligence). Doing BTech on Computer Science & Engineering.Also a passionate Full Stack Web Developer.</h3>
 
+## 🌐 Socials:
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Pritam-red)](https://youtube.com/@pritambanikroy4819)
 [![Linkedin Badge](https://img.shields.io/badge/-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-banik-roy/)](https://www.linkedin.com/in/pritam-banik-roy/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Pritam-green)](https://www.facebook.com/pritam.banikroy/)
@@ -27,7 +28,7 @@
 - 👨‍💻 All of my projects are available : **In my GitHub Repositories**
 
 <div>
-  <h4>🏆 Github Profile Trophy</h4>
+  ## 🏆 GitHub Trophies
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pritam-banik-roy&column=7"/>
   </a>
@@ -164,7 +165,7 @@ Languages and Tools:
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  <strong># 📊 GitHub Stats: </strong>
 </summary>
 <br/>
 
