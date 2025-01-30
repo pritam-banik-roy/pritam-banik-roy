@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Pritam-red)](https://youtube.com/@pritambanikroy4819)
-[![Linkedin Badge](https://img.shields.io/badge/-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-banik-roy/)](https://www.linkedin.com/in/pritam-banik-roy/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Pritam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-banik-roy/)](https://www.linkedin.com/in/pritam-banik-roy/)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Pritam-green)](https://www.facebook.com/pritam.banikroy/)
 [![Instagram Badge](https://img.shields.io/badge/Insta-Roy-yellow)](https://instagram.com/roy_._here._?igshid=MzRlODBiNWFlZA==)
 
